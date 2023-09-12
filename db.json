@@ -1,6 +1,6 @@
 {
   "products": [
-    {"id": "4b7d6a14-5432-4daf-a9d8-ef662d546687", "name": "Carrot", "price": 1.5, "currency": "EUR", "average_weight_kg": 0.1, "image": "https://placehold.co/250x250?text=Carrot", "category": "vegetable"},
+    {"id": "4b7d6a14-5432-4daf-a9d8-ef662d546687", "name": "Carrot", "price": 1.5, "currency": "EUR", "average_weight_kg": 0.1, "image": "https://images.pexels.com/photos/65174/pexels-photo-65174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "category": "vegetable"},
     {"id": "b91b6347-624b-4550-a7e9-8c37f27bdf1c", "name": "Potato", "price": 0.75, "currency": "EUR", "average_weight_kg": 0.2, "image": "https://placehold.co/250x250?text=Potato", "category": "vegetable"},
     {"id": "0cd1cdeb-bd8b-4564-8a5b-af52716b625a", "name": "Tomato", "price": 2.0, "currency": "EUR", "average_weight_kg": 0.1, "image": "https://placehold.co/250x250?text=Tomato", "category": "vegetable"},
     {"id": "d5cbf5ca-b831-41b4-8f83-a7ac3a4ef490", "name": "Broccoli", "price": 2.5, "currency": "EUR", "average_weight_kg": 0.3, "image": "https://placehold.co/250x250?text=Broccoli", "category": "vegetable"},
